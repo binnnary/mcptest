@@ -1,0 +1,5 @@
+[
+  { "id": "T1", "column_name": "cust_nm", "standard_name": "고객명", "type": "VARCHAR" },
+  { "id": "T2", "column_name": "cust_id", "standard_name": "고객ID", "type": "INT" },
+  { "id": "T3", "column_name": "addr", "standard_name": "주소", "type": "VARCHAR" }
+]
