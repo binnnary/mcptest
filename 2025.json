@@ -1,6 +1,6 @@
 [
-  { "id": "T1", "column_name": "cust_nm", "standard_name": "고객이름", "type": "VARCHAR" },
-  { "id": "T3", "column_name": "address", "standard_name": "주소", "type": "TEXT" },
-  { "id": "T4", "column_name": "phone", "standard_name": "연락처", "type": "VARCHAR" },
-  { "id": "T5", "column_name": "email", "standard_name": "이메일", "type": "VARCHAR" }
+  { "id": "T1", "eng_name": "cust_nm", "standard_name": "고객이름", "type": "VARCHAR" },
+  { "id": "T3", "eng_name": "address", "standard_name": "주소", "type": "TEXT" },
+  { "id": "T4", "eng_name": "phone", "standard_name": "연락처", "type": "VARCHAR" },
+  { "id": "T5", "eng_name": "email", "standard_name": "이메일", "type": "VARCHAR" }
 ]
